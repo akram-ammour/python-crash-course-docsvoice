@@ -9,7 +9,7 @@
   - **Numbers:** Integers, floats, basic arithmetic operations (e.g., addition, subtraction, multiplication, division, modulus), type conversion, etc.
   - **Boolean:** Understanding boolean values, comparison operators (e.g., `==`, `!=`, `<`, `>`, `<=`, `>=`), logical operators (e.g., `and`, `or`, `not`), etc.
 - **Working with Constants:** Importance of constants in programming, defining constants using uppercase names.
-- 
+-
 
 ## Conditions
 
@@ -85,10 +85,23 @@
 
 ## Files and Exceptions
 
-- Opening and closing files using the `open()` function and file modes (e.g., read, write, append).
-- Reading from and writing to files using file objects (e.g., `read()`, `write()`, `readline()`, `writelines()`).
-- Handling file paths and working with file directories.
-- Using `with` statement for file operations (context managers).
-- Exception handling using `try`, `except`, `finally`, `else` blocks.
-- Catching specific exceptions and raising custom exceptions.
-- Handling file-related exceptions (e.g., `FileNotFoundError`, `PermissionError`).
+Opening and closing files using the `open()` function and file modes (e.g., read, write, append).
+
+Reading from and writing to files using file objects (e.g., `read()`, `write()`, `readline()`, `writelines()`).
+
+Handling file paths and working with file directories.
+
+Using `with` statement for file operations (context managers).
+
+Exception handling using `try`, `except`, `finally`, `else` blocks.
+
+Catching specific exceptions and raising custom exceptions.
+
+Handling file-related exceptions (e.g., `FileNotFoundError`, `PermissionError`).
+
+---
+
+And so much more this course was made to make more people attracted to the field of programming and how easily accessible are tools for developers and non-developers wether it's for newbies or complete experienced devs .
+
+![Alt text](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"python")
+
