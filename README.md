@@ -103,5 +103,6 @@ Handling file-related exceptions (e.g., `FileNotFoundError`, `PermissionError`).
 
 And so much more this course was made to make more people attracted to the field of programming and how easily accessible are tools for developers and non-developers wether it's for newbies or complete experienced devs .
 
-![Alt text](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"python")
+![Alt text](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "python")
+
 
